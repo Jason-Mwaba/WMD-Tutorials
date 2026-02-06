@@ -3,6 +3,9 @@
     padding:0;
 }
 
+.welcome {
+    font-size: 70px;
+
 body {
     background-color:black;
     color:white;
@@ -19,3 +22,4 @@ body {
     margin-left: 12px;
 
 }
+
