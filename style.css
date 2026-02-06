@@ -1,0 +1,20 @@
+﻿* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color:black;
+    color:white;
+}
+.group {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:95vh;
+}
+
+.text {
+    font-size:20px;
+    margin-left: 12px;
+}
