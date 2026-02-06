@@ -2,24 +2,18 @@
     margin: 0;
     padding: 0;
 }
-
-.welcome {
-    font-size: 70px;
-}
-
 body {
     background-color: black;
     color: white;
 }
-
 .group {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 92vh;
 }
-
 .text {
     font-size: 20px;
     margin-left: 12px;
 }
+
