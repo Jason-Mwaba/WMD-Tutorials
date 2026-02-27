@@ -7,7 +7,7 @@ body {
     color: white;
     font-size: 20px;
     margin-left: 12px;
-    line-height: 4px;
+    line-height: 12px;
     
 }
 nav {
@@ -40,6 +40,7 @@ a {
 #test .box {
     background-color: green;
 }
+
 
 
 
