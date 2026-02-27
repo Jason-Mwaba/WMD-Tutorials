@@ -11,8 +11,13 @@ body {
     
 }
 nav {
-    
+    color: white;
 }
+a {
+    color: white;
+    transition: rgb(161, 161, 161) 0.3s ease;
+}
+
 .group {
     display: flex;
     justify-content: center;
@@ -35,6 +40,7 @@ nav {
 #test .box {
     background-color: green;
 }
+
 
 
 
