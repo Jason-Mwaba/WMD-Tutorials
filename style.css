@@ -11,6 +11,7 @@ body {
 }
 nav {
     color: white;
+    display: float;
 }
 a {
     color: white;
@@ -50,6 +51,7 @@ a:hover {
     align-items:center;
     
 }
+
 
 
 
